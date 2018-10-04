@@ -28,3 +28,13 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Credits
+
+This application is built with the help of the guide and code from:
+
+> Company: [Shipcart](https://github.com/snipcart)
+>
+> Project: [Vue Blog Demo](https://github.com/snipcart/vue-blog-demo)
+>
+> Walkthrough: [Vuejs BLog Demo by Shipcart](https://snipcart.com/blog/vuejs-blog-demo)
